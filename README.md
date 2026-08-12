@@ -56,10 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Nim Game
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
