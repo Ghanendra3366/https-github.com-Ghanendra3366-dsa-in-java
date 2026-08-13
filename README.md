@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/0119-pascals-triangle-ii) |
 | [0485-max-consecutive-ones](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/0485-max-consecutive-ones) |
 | [1140-stone-game-ii](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/1140-stone-game-ii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Sliding Window
 |  |
 | ------- |
@@ -114,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/0203-remove-linked-list-elements) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
