@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/0410-split-array-largest-sum) |
 | [1539-kth-missing-positive-number](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/1539-kth-missing-positive-number) |
 ## Greedy
@@ -183,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/2029-stone-game-ix) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
