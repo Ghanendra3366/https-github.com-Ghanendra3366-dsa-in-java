@@ -16,7 +16,8 @@ class Solution {
             long hours = 0;
 
             for (int pile : piles) {
-                hours += (pile + (long) mid - 1) / mid;
+               hours += Math.ceil((double) pile / mid);
+
             }
 
             if (hours <= h) {
