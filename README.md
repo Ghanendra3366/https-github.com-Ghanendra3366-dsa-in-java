@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0940-distinct-subsequences-ii](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/1096-brace-expansion-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/1927-sum-game) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/0575-distribute-candies) |
+| [1096-brace-expansion-ii](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1386-cinema-seat-allocation](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/0506-relative-ranks) |
+| [1096-brace-expansion-ii](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/2733-neither-minimum-nor-maximum) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [1096-brace-expansion-ii](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
@@ -478,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/0496-next-greater-element-i) |
+| [1096-brace-expansion-ii](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/1096-brace-expansion-ii) |
 ## Queue
 |  |
 | ------- |
@@ -530,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/0494-target-sum) |
+| [1096-brace-expansion-ii](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/1096-brace-expansion-ii) |
 ## Knapsack Problem
 |  |
 | ------- |
