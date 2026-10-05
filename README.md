@@ -3,7 +3,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-## Array
+## Arrays
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/0035-search-insert-position) |
