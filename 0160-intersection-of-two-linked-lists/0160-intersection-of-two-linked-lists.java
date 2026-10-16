@@ -16,14 +16,14 @@ public class Solution {
 
         while(a != b) {
             if (a == null)
-            a = headB;
-        else
-            a = a.next;
+                a = headB;
+            else
+                a = a.next;
 
-        if (b == null)
-            b = headA;
-        else
-            b = b.next;
+            if (b == null)
+                b = headA;
+            else
+                b = b.next;
         }
         return a;
         
