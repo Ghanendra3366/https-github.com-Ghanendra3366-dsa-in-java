@@ -1,61 +1,20 @@
 class Solution {
     public List<Integer> targetIndices(int[] nums, int target) {
-        mergeSort(nums, 0, nums.length - 1);
+        int lessThanTargetCount = 0;
+        int targetCount = 0;
+        for (int num : nums) {
+            if (num < target) {
+                lessThanTargetCount++;
+            } else if (num == target) {
+                targetCount++;
+            }
+        }
         
         List<Integer> result = new ArrayList<>();
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] == target) {
-                result.add(i);
-            }
+        for (int i = 0; i < targetCount; i++) {
+            result.add(lessThanTargetCount + i);
         }
+        
         return result;
-    }
-
-    private void mergeSort(int[] arr, int left, int right) {
-        if (left < right) {
-            int mid = left + (right - left) / 2;
-
-            mergeSort(arr, left, mid);
-            mergeSort(arr, mid + 1, right);
-
-            merge(arr, left, mid, right);
-        }
-    }
-
-    private void merge(int[] arr, int left, int mid, int right) {
-        int n1 = mid - left + 1;
-        int n2 = right - mid;
-
-        int[] leftArr = new int[n1];
-        int[] rightArr = new int[n2];
-
-        for (int i = 0; i < n1; ++i) leftArr[i] = arr[left + i];
-        for (int j = 0; j < n2; ++j) rightArr[j] = arr[mid + 1 + j];
-
-        int i = 0, j = 0;
-        int k = left;
-
-        while (i < n1 && j < n2) {
-            if (leftArr[i] <= rightArr[j]) {
-                arr[k] = leftArr[i];
-                i++;
-            } else {
-                arr[k] = rightArr[j];
-                j++;
-            }
-            k++;
-        }
-
-        while (i < n1) {
-            arr[k] = leftArr[i];
-            i++;
-            k++;
-        }
-
-        while (j < n2) {
-            arr[k] = rightArr[j];
-            j++;
-            k++;
-        }
     }
 }
