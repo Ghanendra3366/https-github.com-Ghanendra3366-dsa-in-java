@@ -1,25 +1,53 @@
 class Solution {
     public int minOperations(String s) {
-        char[] arr = s.toCharArray();
-        boolean sorted = true;
-        for (int i = 1; i < arr.length; i++) {
-            if (arr[i] < arr[i - 1]) {
-                sorted = false;
-                break;
+        if (isSorted(s)) return 0;
+        int n = s.length();
+        if (n == 2) return -1;
+
+        Queue<String> queue = new LinkedList<>();
+        Set<String> visited = new HashSet<>();
+
+        queue.offer(s);
+        visited.add(s);
+        int steps = 0;
+
+        while (!queue.isEmpty()) {
+            int size = queue.size();
+            steps++;
+            
+            for (int i = 0; i < size; i++) {
+                String curr = queue.poll();
+                
+                String next1 = sortSubstring(curr, 0, n - 2);
+                if (isSorted(next1)) return steps;
+                if (!visited.contains(next1)) {
+                    visited.add(next1);
+                    queue.offer(next1);
+                }
+                
+                String next2 = sortSubstring(curr, 1, n - 1);
+                if (isSorted(next2)) return steps;
+                if (!visited.contains(next2)) {
+                    visited.add(next2);
+                    queue.offer(next2);
+                }
             }
         }
-        if (sorted) return 0;
-        int n = arr.length;
-        if (n == 2) return -1;
-        char mn = arr[0], mx = arr[0];
-        for (char c : arr) {
-            if (c < mn) mn = c;
-            if (c > mx) mx = c;
+        return -1;
+    }
+
+    private boolean isSorted(String s) {
+        for (int i = 1; i < s.length(); i++) {
+            if (s.charAt(i) < s.charAt(i - 1)) {
+                return false;
+            }
         }
-        if (arr[0] == mn || arr[n - 1] == mx) return 1;
-        for (int i = 1; i < n - 1; i++) {
-            if (arr[i] == mn || arr[i] == mx) return 2;
-        }
-        return 3;
+        return true;
+    }
+
+    private String sortSubstring(String s, int start, int end) {
+        char[] arr = s.toCharArray();
+        Arrays.sort(arr, start, end + 1);
+        return new String(arr);
     }
 }
