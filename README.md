@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/0485-max-consecutive-ones) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/0062-unique-paths) |
 | [0171-excel-sheet-column-number](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/0171-excel-sheet-column-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/1025-divisor-game) |
