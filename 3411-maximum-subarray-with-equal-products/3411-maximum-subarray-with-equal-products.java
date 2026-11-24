@@ -1,11 +1,11 @@
 class Solution {
     public int maxLength(int[] nums) {
-        // int maxVal = 0, totalLcm = 1;
-        // for (int num : nums) {
-        //     maxVal = Math.max(maxVal, num);
-        //     totalLcm = lcm(totalLcm, num);
-        // }
-        // int maxAllowedProd = totalLcm * maxVal;
+        int maxVal = 0, totalLcm = 1;
+        for (int num : nums) {
+            maxVal = Math.max(maxVal, num);
+            totalLcm = lcm(totalLcm, num);
+        }
+        int maxAllowedProd = totalLcm * maxVal;
         int n = nums.length;
         int maxLen = 0;
         for (int i = 0; i < n; i++) {
@@ -19,9 +19,9 @@ class Solution {
                 if (prod == g * l) {
                     maxLen = Math.max(maxLen, j - i + 1);
                 }
-                // if (prod > maxAllowedProd) {
-                //     break;
-                // }
+                if (prod > maxAllowedProd) {
+                    break;
+                }
             }
         }
         return maxLen;
