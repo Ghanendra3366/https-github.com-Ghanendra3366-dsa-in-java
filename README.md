@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/2029-stone-game-ix) |
 | [2409-count-days-spent-together](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/2409-count-days-spent-together) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3360-stone-removal-game](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/3525-find-x-value-of-array-ii) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/2073-time-needed-to-buy-tickets) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ghanendra3366/https-github.com-Ghanendra3366-dsa-in-java/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
 |  |
