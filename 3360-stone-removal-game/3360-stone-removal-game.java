@@ -3,12 +3,14 @@ class Solution {
         if (n < 10) {
             return false;
         }
-        if ((n >= 10 && n <= 18) || 
-            (n >= 27 && n <= 33) || 
-            (n >= 40 && n <= 44) || 
-            (n >= 49 && n <= 50)) {
-            return true;
+        n -= 10;
+        int stones = 9;
+        boolean alice = false;
+        while (n >= stones) {
+            n -= stones;
+            stones--;
+            alice = !alice;
         }
-        return false;
+        return !alice;
     }
 }
